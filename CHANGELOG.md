@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/googleapis/java-iamcredentials/compare/v1.1.9...v1.2.0) (2021-02-16)
+
+
+### Features
+
+* generate sample code in the Java microgenerator ([#349](https://www.github.com/googleapis/java-iamcredentials/issues/349)) ([af41579](https://www.github.com/googleapis/java-iamcredentials/commit/af4157904ed08555a286f57011b11efc0aeac8a0))
+
 ### [1.1.9](https://www.github.com/googleapis/java-iamcredentials/compare/v1.1.8...v1.1.9) (2020-12-15)
 
 
